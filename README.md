@@ -1,5 +1,3 @@
-# ML-Parallel-Species-Authentication-and-Adulteration-Quantification
-
 This repository contains the python code for the manuscript:  
 **"Feature Selection-Driven Machine Learning for Parallel Species Authentication and Adulteration Quantification in Commercial Dairy Products via Raman Fingerprints"** by Yaju Zhao, Xiaofeng Ni, Minmin Tang.
 
