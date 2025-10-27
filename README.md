@@ -5,3 +5,5 @@ This repository contains the python code for the manuscript:
 
 This project implements a novel parallel machine learning framework for dairy product analysis. It simultaneously addresses two critical tasks: species authentication (classification) and adulteration quantification (regression) using Raman spectroscopy. 
 
+##  Installation
+pip install qsi-tk
